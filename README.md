@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/Subrata-05/PROBLEM_SOLVING/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Subrata-05/PROBLEM_SOLVING/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Subrata-05/PROBLEM_SOLVING/tree/master/0238-product-of-array-except-self) |
+| [3193-count-the-number-of-inversions](https://github.com/Subrata-05/PROBLEM_SOLVING/tree/master/3193-count-the-number-of-inversions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0042-trapping-rain-water](https://github.com/Subrata-05/PROBLEM_SOLVING/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Subrata-05/PROBLEM_SOLVING/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Subrata-05/PROBLEM_SOLVING/tree/master/0152-maximum-product-subarray) |
+| [3193-count-the-number-of-inversions](https://github.com/Subrata-05/PROBLEM_SOLVING/tree/master/3193-count-the-number-of-inversions) |
 ## Two Pointers
 |  |
 | ------- |
